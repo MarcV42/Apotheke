@@ -2,7 +2,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Apotheke {
+public class Apotheke{
     private Map<String, Medication> medicationMap = new HashMap<>();
 
     public void addMedication(String name, double price, int availability) {
