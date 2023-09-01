@@ -47,5 +47,8 @@ public class Main {
         // Gib die aktualisierte Liste der Medication aus
         System.out.println("Aktualisierte Liste der Medication:");
         apotheke.printAllMedication();
+
+        System.out.println(apotheke.getCount());
     }
+
 }
