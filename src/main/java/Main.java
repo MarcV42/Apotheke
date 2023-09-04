@@ -49,6 +49,7 @@ public class Main {
         apotheke.printAllMedication();
 
         System.out.println(apotheke.getCount());
+
     }
 
 }
